@@ -1,66 +1,75 @@
-<h2 align="left">Hi 👋! My name is Piyus Kumar and I'm a engineering student, from India</h2>
+<h1 align="center">🚀 Piyush Kumar</h1>
+<h3 align="center">Engineering Student • Full-Stack Developer • AI/ML Enthusiast</h3>
 
-###
+<p align="center">
+Turning coffee ☕ into code, and ideas 💡 into scalable systems.  
+Focused on building real-world products with AI, backend, and competitive programming.
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
+---
 
-###
-
-<img align="right" height="174" src="https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif?1616014770"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PYxMAFIA/PYxMAFIA/output/snake.svg" alt="Snake animation" />
-
-###
+## 🧩 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PYxMAFIA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PYxMAFIA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,python,mongodb,postgres,git,github,html,css" />
 </div>
 
-###
+---
+
+## 🎯 Current Focus
+
+- 🧠 Artificial Intelligence & Machine Learning  
+- 🌐 Scalable Full-Stack Systems  
+- ⚙️ Competitive Programming in C++  
+- 🏗️ Startup-grade projects & system design
+
+---
+
+## 🏆 Achievements
+
+- ⭐ 5-Star in Problem Solving — HackerRank  
+- 🧪 Building AI & backend production systems  
+- 🧱 Strong foundation in DSA + CP  
+- 💡 Long-term goal: High-impact tech & entrepreneurship
+
+---
+
+## 🕶️ Developer Mode
+
+<img align="right" height="160" src="https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif"/>
+
+> *"Good engineers write code. Great engineers design futures."*
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.hackerrank.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+<a href="https://www.instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/PYxMAFIA/PYxMAFIA/output/snake.svg"/>
+
+---
+
+## 📊 GitHub Analytics (Fixed & Stable)
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PYxMAFIA&theme=dracula" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PYxMAFIA&show_icons=true&theme=dracula&rank_icon=github" height="160"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PYxMAFIA&layout=compact&theme=dracula" height="150"/>
+</div>
+
+---
+
+<h3 align="center">⚡ Always Learning • Always Building • Always Hungry</h3>
