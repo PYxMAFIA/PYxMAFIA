@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Piyush Kumar</h1>
+<h1 align="center">🚀 Piyus Kumar</h1>
 <h3 align="center">Engineering Student • Full-Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
@@ -55,19 +55,19 @@ Focused on building real-world products with AI, backend, and competitive progra
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/PYxMAFIA/PYxMAFIA/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/piyuskumar-dev/piyuskumar-dev/output/snake.svg"/>
 
 ---
 
 ## 📊 GitHub Analytics (Fixed & Stable)
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PYxMAFIA&theme=dracula" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api?username=PYxMAFIA&show_icons=true&theme=dracula&rank_icon=github" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyuskumar-dev&theme=dracula" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=piyuskumar-dev&show_icons=true&theme=dracula&rank_icon=github" height="160"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PYxMAFIA&layout=compact&theme=dracula" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyuskumar-dev&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ---
